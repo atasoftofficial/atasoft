@@ -29,12 +29,12 @@ ATASOFT ağında aktif olarak operasyonlarına devam eden bağlantılar aşağı
 
 | Servis / Altyapı | Bağlantı Adresi | Platform Logosu |
 | :--- | :--- | :---: |
-| Merkez Altyapı | [atasoft.xyz](https://atasoft.xyz) | <img src="https://atasoft.xyz/atasoft.png" width="24" alt="ATASOFT"> |
-| Destek Masası | [support.atasoft.xyz](https://support.atasoft.xyz) | <img src="https://atasoft.xyz/atasoft.png" width="24" alt="ATASOFT"> |
-| AtasoftBOT Sistem | [bot.atasoft.xyz](https://bot.atasoft.xyz) | <img src="https://atasoft.xyz/atasoft.png" width="24" alt="ATASOFT"> |
-| Minecraft PvP | [pvp.atasoft.xyz](https://pvp.atasoft.xyz) | <img src="https://atasoft.xyz/atasoft.png" width="24" alt="ATASOFT"> |
-| Güvenlik Doğrulama | [captcha.atasoft.xyz](https://captcha.atasoft.xyz) | <img src="https://atasoft.xyz/atasoft.png" width="24" alt="ATASOFT"> |
-| Veri Transferi | [drop.atasoft.xyz](https://drop.atasoft.xyz) | <img src="https://atasoft.xyz/atasoft.png" width="24" alt="ATASOFT"> |
+| Merkez Altyapı | [atasoft.xyz](https://atasoft.xyz) | <img src="https://i.imgur.com/yGy5Vyu.png" width="24" alt="ATASOFT"> |
+| Destek Masası | [support.atasoft.xyz](https://support.atasoft.xyz) | <img src="https://i.imgur.com/yGy5Vyu.png" width="24" alt="ATASOFT"> |
+| AtasoftBOT Sistem | [bot.atasoft.xyz](https://bot.atasoft.xyz) | <img src="https://i.imgur.com/yGy5Vyu.png" width="24" alt="ATASOFT"> |
+| Minecraft PvP | [pvp.atasoft.xyz](https://pvp.atasoft.xyz) | <img src="https://i.imgur.com/yGy5Vyu.png" width="24" alt="ATASOFT"> |
+| Güvenlik Doğrulama | [captcha.atasoft.xyz](https://captcha.atasoft.xyz) | <img src="https://i.imgur.com/yGy5Vyu.png" width="24" alt="ATASOFT"> |
+| Veri Transferi | [drop.atasoft.xyz](https://drop.atasoft.xyz) | <img src="https://i.imgur.com/yGy5Vyu.png" width="24" alt="ATASOFT"> |
 | İletişim Ağı | [discord.gg/38MMyjpT9Q](https://discord.gg/38MMyjpT9Q) | <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" height="24" alt="Discord"> |
 
 <br>
