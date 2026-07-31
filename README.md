@@ -14,7 +14,7 @@
   </p>
   
   <p>
-    <a href="https://github.com/atasoftofficial"><img src="https://img.shields.io/github/followers/KULLANICI_ADINI_BURAYA_YAZ?label=Followers&style=for-the-badge&color=00d4ff&logo=github" alt="GitHub followers"></a>
+    <a href="https://github.com/atasoftofficial"><img src="https://img.shields.io/github/followers/atasoftofficial?label=Followers&style=for-the-badge&color=00d4ff&logo=github" alt="GitHub followers"></a>
     <a href="https://atasoft.xyz"><img src="https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge" /></a>
   </p>
 </div>
