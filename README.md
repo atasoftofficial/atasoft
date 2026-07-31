@@ -1,77 +1,65 @@
 <div align="center">
-  <img src="https://atasoft.xyz/atasoft.png" width="160px" alt="ATASOFT Logo" style="border-radius: 20%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://atasoft.xyz" target="_blank">
+    <img src="https://atasoft.xyz/atasoft.png" width="160" alt="ATASOFT Logo" style="border-radius: 20%;">
+  </a>
+  <br><br>
   
-  <h1 style="font-size: 3em; margin-bottom: 10px; font-weight: 800; background: -webkit-linear-gradient(45deg, #090979, #00d4ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    <b>ATASOFT™</b>
-  </h1>
+  <!-- ANIMASYONLU TYPING (YAZI YAZMA) EFEKTI -->
+  <a href="https://atasoft.xyz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=ATASOFT™;ENGINEERING+THE+FUTURE;HIGH-PERFORMANCE+WEB+SOLUTIONS;CUSTOM+SOFTWARE+ARCHITECTURES" alt="Animated ATASOFT Text" />
+  </a>
+  <br>
   
-  <p style="font-size: 1.2em; margin-bottom: 20px;">
-    <a href="https://atasoft.xyz" target="_blank" style="text-decoration: none; color: #00d4ff; font-weight: bold; transition: color 0.3s;" onmouseover="this.style.color='#090979'" onmouseout="this.style.color='#00d4ff'">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="20" height="20" style="vertical-align: middle; margin-right: 5px;" alt="Globe icon">
-      https://atasoft.xyz
-    </a>
-  </p>
-
-  <p style="font-style: italic; color: #555; max-width: 600px; margin: 0 auto 25px auto; line-height: 1.6;">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/quote-left.svg" width="15" height="15" style="vertical-align: top; margin-right: 5px; opacity: 0.5;" alt="Quote start">
-    Engineering scalable digital infrastructure, high-performance web solutions, and custom software architectures.
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/quote-right.svg" width="15" height="15" style="vertical-align: bottom; margin-left: 5px; opacity: 0.5;" alt="Quote end">
+  <p style="color: #888;">
+    <i>🚀 Building scalable digital infrastructure, real-time databases, and server integrations.</i>
   </p>
   
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 30px;">
-    <img src="https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge&logo=rocket&logoColor=white" style="box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 4px;"/>
-    <img src="https://img.shields.io/badge/Security-DDoS%20Protected-blue?style=for-the-badge&logo=shield-halved&logoColor=white" style="box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 4px;"/>
-    <img src="https://img.shields.io/badge/Team-15%20Developers-informational?style=for-the-badge&logo=users&logoColor=white" style="box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 4px;"/>
-  </div>
+  <p>
+    <a href="https://github.com/KULLANICI_ADINI_BURAYA_YAZ"><img src="https://img.shields.io/github/followers/KULLANICI_ADINI_BURAYA_YAZ?label=Followers&style=for-the-badge&color=00d4ff&logo=github" alt="GitHub followers"></a>
+    <a href="https://atasoft.xyz"><img src="https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  </p>
 </div>
 
-<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 212, 255, 0.75), rgba(0, 0, 0, 0)); margin: 40px 0;">
+<br>
+<!-- HAREKETLİ NEON ÇİZGİ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
+<br><br>
 
-## 🏢 Hakkımızda / About Us
+## ⚙️ Engineering Stack & Arsenal
 
-**ATASOFT™**, yenilikçi dijital sistemler, ölçeklenebilir web altyapıları, özel yazılım çözümleri ve otomasyon araçları geliştiren profesyonel bir yazılım geliştirme ekibidir. Teknolojinin sınırlarını zorlayan projeler üretmek, güvenli altyapılar kurmak ve dijital dünyada kalıcı izler bırakmak temel prensibimizdir.
+Projelerimizde ve altyapılarımızda aktif olarak kullandığımız temel teknolojiler:
 
-<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 212, 255, 0.75), rgba(0, 0, 0, 0)); margin: 40px 0;">
-
-## ⚙️ Teknoloji Yelpazemiz / Tech Stack
-
-Projelerimizde ve altyapılarımızda aktif olarak kullandığımız temel dil, framework ve teknolojiler:
-
-<div align="center" style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; box-shadow: inset 0 2px 4px rgba(0,0,0,0.05); margin-top: 20px;">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+<div align="center">
+  <!-- MODERN YUVARLAK İKONLAR -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,py,sqlite,firebase,js,nodejs,html,css,mysql,git&theme=dark&perline=10" alt="Tech Stack Icons" />
+  </a>
 </div>
 
-<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 212, 255, 0.75), rgba(0, 0, 0, 0)); margin: 40px 0;">
+<br><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
+<br><br>
 
-## 🚀 Öne Çıkan Sistemler & Projeler
+## 🚀 Core Systems & Deployed Architectures
 
-<details open>
-  <summary style="font-size: 1.1em; font-weight: bold; cursor: pointer; margin-bottom: 10px;">🤖 AtasoftBOT</summary>
-  <p style="margin-left: 20px; border-left: 3px solid #00d4ff; padding-left: 15px;">Gelişmiş moderasyon, bilet (ticket) yönetimi ve kayıt sistemleri sunan modüler Discord yönetim aracı.</p>
-</details>
+| ⚡ Sistem / Proje | 📝 Açıklama | 🔋 Durum |
+| :--- | :--- | :---: |
+| **🤖 DraculaBOT (AtasoftBOT)** | Gelişmiş moderasyon, bilet (ticket) yönetimi ve özel slash komutları barındıran modüler Discord bot entegrasyonu. | `Aktif` |
+| **🎫 Support Desk** | SQLite veri tabanı altyapılı, lokal log kayıtlı ve otomatik e-posta bildirimli çevrim içi destek masası. | `Aktif` |
+| **🎮 Server Integrations** | Sunucular (ör. Minecraft) için web entegreli kayıt sistemleri, PlaceholderAPI bağlantıları ve özel oyun eklentileri. | `Aktif` |
+| **🛡️ DDoS Mitigations** | Web uygulamaları ve sunucu ağları için özel entegre edilen güvenlik duvarı ve koruma sistemleri. | `Korumada` |
 
-<details open>
-  <summary style="font-size: 1.1em; font-weight: bold; cursor: pointer; margin-bottom: 10px;">🎫 Support Desk</summary>
-  <p style="margin-left: 20px; border-left: 3px solid #00d4ff; padding-left: 15px;">SQLite veri tabanı entegrasyonlu, SSS akordeon yapısına ve otomatik e-posta bildirimlerine sahip çevrim içi destek masası altyapısı.</p>
-</details>
+<br><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
+<br><br>
 
-<details open>
-  <summary style="font-size: 1.1em; font-weight: bold; cursor: pointer; margin-bottom: 10px;">🛡️ Security & DDoS Mitigations</summary>
-  <p style="margin-left: 20px; border-left: 3px solid #00d4ff; padding-left: 15px;">Web uygulamaları ve sunucu ağları için özel entegre edilen koruma katmanları ve güvenlik duvarı sistemleri.</p>
-</details>
+<!-- GITHUB ISTATISTIK KARTLARI (PROFESYONEL GORUNUM ICIN) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINI_BURAYA_YAZ&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff" alt="GitHub Stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINI_BURAYA_YAZ&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff" alt="Top Languages" height="192px"/>
+</div>
 
-<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 212, 255, 0.75), rgba(0, 0, 0, 0)); margin: 40px 0;">
-
-<div align="center" style="margin-top: 50px; padding: 20px; background-color: #f0f0f0; border-radius: 8px;">
-  <p style="margin: 0; font-size: 0.9em; color: #666;">
-    © 2026 <b>ATASOFT™</b>. All rights reserved.<br>
-    <i>Crafted with passion and code.</i>
-  </p>
+<div align="center">
+  <br>
+  <p><i>© 2026 ATASOFT™. All rights reserved.</i></p>
 </div>
