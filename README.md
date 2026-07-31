@@ -55,7 +55,7 @@ Projelerde standart olarak kullanılan teknolojiler:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
 <br><br>
 
-## ILETISIM
+## ILETIŞIM
 
 Teknik destek ve yönetim süreçleri için belirlenen adresler:
 
@@ -63,8 +63,8 @@ Teknik destek ve yönetim süreçleri için belirlenen adresler:
 *   Teknik Destek: support@atasoft.xyz
 
 <br><br>
+## SON PAYLAŞIM
 <div align="center">
-  <i>Son Paylaşım:</i>
   <img src="https://i.imgur.com/ij0U877.png" alt="GitHub Stats" height="150px"/>
 </div>
 
