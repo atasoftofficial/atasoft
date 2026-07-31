@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://atasoft.xyz" target="_blank">
-    <img src="https://atasoft.xyz/atasoft.png" width="160" alt="ATASOFT Logo">
+    <img src="https://i.imgur.com/yGy5Vyu.png" width="160" alt="ATASOFT Logo">
   </a>
   <br><br>
   
