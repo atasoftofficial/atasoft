@@ -1,16 +1,16 @@
 <div align="center">
   <a href="https://atasoft.xyz" target="_blank">
-    <img src="https://atasoft.xyz/atasoft.png" width="160" alt="ATASOFT Logo" style="border-radius: 20%;">
+    <img src="https://atasoft.xyz/atasoft.png" width="160" alt="ATASOFT Logo">
   </a>
   <br><br>
   
   <a href="https://atasoft.xyz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=ATASOFT™;DIGITAL+INFRASTRUCTURE;HIGH-PERFORMANCE+SYSTEMS;CUSTOM+ARCHITECTURES" alt="Animated ATASOFT Text" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=ATASOFT;GELISTIRICI+EKIBI;YENILIKCI+ALTYAPILAR;DIJITAL+COZUMLER" alt="Animated ATASOFT Text" />
   </a>
   <br>
   
   <p style="color: #888;">
-    <i>Building scalable digital infrastructure, real-time databases, and server integrations.</i>
+    <i>Scalable digital infrastructure, real-time databases, and server integrations.</i>
   </p>
   
   <p>
@@ -23,36 +23,31 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
 <br><br>
 
-## CORPORATE OVERVIEW
+## SISTEM ALTYAPILARI VE PROJELER
 
-ATASOFT™, yenilikçi dijital sistemler, ölçeklenebilir web altyapıları, özel yazılım çözümleri ve otomasyon araçları geliştiren profesyonel bir yazılım geliştirme organizasyonudur. Temel prensibimiz, teknolojinin sınırlarını zorlayan projeler üretmek ve üst düzey güvenliğe sahip kalıcı altyapılar inşa etmektir.
+ATASOFT ağında aktif olarak operasyonlarına devam eden bağlantılar aşağıda listelenmiştir:
 
-<br>
-
-## ECOSYSTEM & DIGITAL INFRASTRUCTURE
-
-ATASOFT™ ağı altında aktif olarak operasyonlarına devam eden resmi altyapılarımız aşağıda listelenmiştir:
-
-| Service / Subdomain | Description | Link |
-| :--- | :--- | :--- |
-| **Corporate Web** | Ana şirket portalı ve merkezi hizmet yönetim alanı. | [atasoft.xyz](https://atasoft.xyz) |
-| **Support Desk** | Çevrim içi bilet (ticket) yönetimi ve teknik destek masası. | [support.atasoft.xyz](https://support.atasoft.xyz) |
-| **AtasoftBOT System** | AtasoftBOT web arayüzü ve yönetim kontrol paneli. | [bot.atasoft.xyz](https://bot.atasoft.xyz) |
-| **Minecraft PvP Network** | Resmi Minecraft PvP sunucusu ve web altyapısı. | [pvp.atasoft.xyz](https://pvp.atasoft.xyz) |
-| **Security Gateway** | Kullanıcı doğrulama ve Captcha güvenlik katmanı. | [captcha.atasoft.xyz](https://captcha.atasoft.xyz) |
-| **Data Drop** | Güvenli dosya transfer ve veri depolama mimarisi. | [drop.atasoft.xyz](https://drop.atasoft.xyz) |
+| Servis / Altyapı | Bağlantı Adresi | Platform Logosu |
+| :--- | :--- | :---: |
+| Merkez Altyapı | [atasoft.xyz](https://atasoft.xyz) | <img src="https://atasoft.xyz/atasoft.png" width="24" alt="ATASOFT"> |
+| Destek Masası | [support.atasoft.xyz](https://support.atasoft.xyz) | <img src="https://atasoft.xyz/atasoft.png" width="24" alt="ATASOFT"> |
+| AtasoftBOT Sistem | [bot.atasoft.xyz](https://bot.atasoft.xyz) | <img src="https://atasoft.xyz/atasoft.png" width="24" alt="ATASOFT"> |
+| Minecraft PvP | [pvp.atasoft.xyz](https://pvp.atasoft.xyz) | <img src="https://atasoft.xyz/atasoft.png" width="24" alt="ATASOFT"> |
+| Güvenlik Doğrulama | [captcha.atasoft.xyz](https://captcha.atasoft.xyz) | <img src="https://atasoft.xyz/atasoft.png" width="24" alt="ATASOFT"> |
+| Veri Transferi | [drop.atasoft.xyz](https://drop.atasoft.xyz) | <img src="https://atasoft.xyz/atasoft.png" width="24" alt="ATASOFT"> |
+| İletişim Ağı | [discord.gg/38MMyjpT9Q](https://discord.gg/38MMyjpT9Q) | <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" height="24" alt="Discord"> |
 
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
 <br><br>
 
-## TECHNOLOGY STACK
+## TEKNOLOJI YELPAZESI
 
-Projelerimizde ve sistem mimarilerimizde aktif olarak çalıştırılan temel teknolojiler:
+Projelerde standart olarak kullanılan teknolojiler:
 
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,py,sqlite,firebase,js,nodejs,html,css,mysql,git&theme=dark&perline=10" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=php,py,sqlite,firebase,js,nodejs,html,css,mysql,git&theme=dark" alt="Tech Stack Icons" />
   </a>
 </div>
 
@@ -60,20 +55,19 @@ Projelerimizde ve sistem mimarilerimizde aktif olarak çalıştırılan temel te
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
 <br><br>
 
-## COMMUNICATION & CONTACT
+## ILETISIM
 
-Kurumsal iletişim ve teknik destek süreçleri için aşağıdaki resmi kanallar kullanılmaktadır:
+Teknik destek ve yönetim süreçleri için belirlenen adresler:
 
-*   **Management:** management@atasoft.xyz
-*   **Technical Support:** support@atasoft.xyz
-*   **Official Discord Network:** [discord.gg/38MMyjpT9Q](https://discord.gg/38MMyjpT9Q)
+*   Yönetim: management@atasoft.xyz
+*   Teknik Destek: support@atasoft.xyz
 
 <br><br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINI_BURAYA_YAZ&show_icons=false&theme=tokyonight&hide_border=true&title_color=00d4ff" alt="GitHub Stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINI_BURAYA_YAZ&show_icons=false&theme=tokyonight&hide_border=true&title_color=00d4ff" alt="GitHub Stats" height="150px"/>
 </div>
 
 <div align="center">
   <br>
-  <p><i>© 2026 ATASOFT™. All rights reserved.</i></p>
+  <p><i>2026 ATASOFT. All rights reserved.</i></p>
 </div>
