@@ -64,7 +64,8 @@ Teknik destek ve yönetim süreçleri için belirlenen adresler:
 
 <br><br>
 <div align="center">
-  <img src="https://i.imgur.com/TD4GcMr.png" alt="GitHub Stats" height="150px"/>
+  <i>Son Paylaşım:</i>
+  <img src="https://i.imgur.com/ij0U877.png" alt="GitHub Stats" height="150px"/>
 </div>
 
 <div align="center">
