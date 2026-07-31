@@ -5,7 +5,7 @@
   <br><br>
   
   <a href="https://atasoft.xyz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=ATASOFT;GELISTIRICI+EKIBI;YENILIKCI+ALTYAPILAR;DIJITAL+COZUMLER" alt="Animated ATASOFT Text" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=ATASOFT™;GELISTIRICI+EKIBI;YENILIKCI+ALTYAPILAR;DIJITAL+COZUMLER" alt="Animated ATASOFT Text" />
   </a>
   <br>
   
@@ -14,7 +14,7 @@
   </p>
   
   <p>
-    <a href="https://github.com/KULLANICI_ADINI_BURAYA_YAZ"><img src="https://img.shields.io/github/followers/KULLANICI_ADINI_BURAYA_YAZ?label=Followers&style=for-the-badge&color=00d4ff&logo=github" alt="GitHub followers"></a>
+    <a href="https://github.com/atasoftofficial"><img src="https://img.shields.io/github/followers/KULLANICI_ADINI_BURAYA_YAZ?label=Followers&style=for-the-badge&color=00d4ff&logo=github" alt="GitHub followers"></a>
     <a href="https://atasoft.xyz"><img src="https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge" /></a>
   </p>
 </div>
